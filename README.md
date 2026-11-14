@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="LA3A Gaming On Chain" width="100%" />
+  <img src="./assets/banner.png" alt="LA3A Logo" width="250" />
 </div>
 
 <h1 align="center">LA3A Whitepaper</h1>
@@ -42,10 +42,6 @@ LA3A opens a new era of digital ownership for gamers: built for the future and p
 Our vision is a gaming world where the items, progress and value a player creates live on-chain and belong to that player. The token is the foundation, and the Extension Game is where it becomes something people can play.
 
 The brand follows the same idea. Black and white, sharp lines, and a logo made of linked blocks: each block is a step in a chain, and the filled block at the end is the player.
-
-<div align="center">
-  <img src="./assets/logo.png" alt="LA3A Icon" width="150" />
-</div>
 
 ## 04 — The problem
 In most games today, players spend time and money on items they do not actually own.
